@@ -108,3 +108,4 @@ CodeMirror.defineMode("docker", function() {
   };
 });
 
+CodeMirror.defineMIME("text/x-docker", "docker");
